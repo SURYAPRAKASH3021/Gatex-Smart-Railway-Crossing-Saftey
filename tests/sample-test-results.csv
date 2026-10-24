@@ -1,0 +1,6 @@
+Test_ID,Scenario,Expected_Result,Actual_Result,Status
+TC01,No train input,Gate remains open,Not tested,Pending
+TC02,Train input active,Gate closes and warning LED turns on,Not tested,Pending
+TC03,Train active with obstacle,Obstacle warning activates,Not tested,Pending
+TC04,Obstacle outside threshold,Obstacle alert remains off,Not tested,Pending
+TC05,Invalid ultrasonic reading,Reading treated as invalid,Not tested,Pending
